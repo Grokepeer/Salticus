@@ -1,0 +1,46 @@
+[
+  [
+    "DEL\nESC\n\n\n\n\n\n\n\nESC",
+    "7\n1\n\n\n\n\n\n\n\nN",
+    "8\n2\n\n\n\n\n\n\n\n<i class='fa fa-print'></i>",
+    "9\n3\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Rewind'></i>",
+    "\\\n4\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    "\n5\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-FastForwar'></i>",
+    {
+      "a": 7
+    },
+    "<i class='kb kb-Multimedia-Mute-2'></i>"
+  ],
+  [
+    {
+      "a": 4
+    },
+    "NUM\nTAB\n\n\n\n\n\n\n\n<i class='fa fa-calculator'></i>",
+    "4\nQ\n\n\n\n\n\n\n\n<i class='fa fa-steam'></i>",
+    "5\nW\n\n\n\n\n\n\n\n<i class='fa fa-github-square'></i>",
+    "6\nE\n\n\n\n\n\n\n\n<i class='fa fa-fighter-jet'></i>",
+    "*\nR\n\n\n\n\n\n\n\n<i class='fa fa-file-code-o'></i>",
+    "\nT",
+    "<i class='fa fa-long-arrow-up'></i>\n\n\n\n\n\n\n\n\n<i class='fa fa-long-arrow-up'></i>"
+  ],
+  [
+    "L1O\nLCTL\n\n\n\n\n\n\n\nL1",
+    "1\nA\n\n\n\n\n\n\n\n<i class='fa fa-firefox'></i>",
+    "2\nS\n\n\n\n\n\n\n\n<i class='fa fa-spotify'></i>",
+    "3\nD\n\n\n\n\n\n\n\n<i class='fa fa-comment'></i>",
+    "-\nF\n\n\n\n\n\n\n\n<i class='fa fa-copy'></i>",
+    "<i class='fa fa-long-arrow-left'></i>\nG\n\n\n\n\n\n\n\n<i class='fa fa-long-arrow-left'></i>",
+    "<i class='fa fa-long-arrow-down'></i>\n\n\n\n\n\n\n\n\n<i class='fa fa-long-arrow-down'></i>",
+    "<i class='fa fa-long-arrow-right'></i>\nL2O\n\n\n\n\n\n\n\n<i class='fa fa-long-arrow-right'></i>"
+  ],
+  [
+    "ENT\nLSFT\n\n\n\n\n\n\n\nL2",
+    "0\nZ\n\n\n\n\n\n\n\n<i class='fa fa-unlock-alt'></i>",
+    ".\nX\n\n\n\n\n\n\n\n<i class='fa fa-folder-open'></i>",
+    ",\nC\n\n\n\n\n\n\n\n<i class='fa fa-linux'></i>",
+    "+\nV\n\n\n\n\n\n\n\n<i class='fa fa-file-o'></i>",
+    "ENT\nSP\n\n\n\n\n\n\n\nLSFT",
+    "<i class='kb kb-Multimedia-Volume-Down-1'></i>\nLALT\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>",
+    "<i class='kb kb-Multimedia-Volume-Up-1'></i>\n\n\n\n\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-1'></i>"
+  ]
+]
