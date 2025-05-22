@@ -11,3 +11,9 @@ A compact keypad featuring 30 keys and 2 encoders, fully supporting QMK firmware
 ## 3D Printable Case Rendering
 
 ![Case renderings](./SalticusCaseRendering.png)
+
+## Pictures
+
+![PCB picture](./PCBPhoto.jpg)
+
+![Case picture](./CasePhoto.jpg)
